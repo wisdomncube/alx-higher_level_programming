@@ -44,4 +44,4 @@ class Student:
             Student class as a json format
         """
         for key, value in json.items():
-            setattr(self, key, value)i
+            setattr(self, key, value)
